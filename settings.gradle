@@ -1,0 +1,2 @@
+rootProject.name = "Fond Memory"
+include ':app'
